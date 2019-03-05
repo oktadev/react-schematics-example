@@ -51,15 +51,6 @@ This will prompt you for your Okta OIDC settings. To get those, log in to your O
 
 When prompted, enter your issuer (it can be found in Okta's dashboard under **API** > **Authorization Servers**) and client ID. When the installation completes, run `npm start` and marvel at your React app with OIDC authentication!
 
-### Testing
-
-To test locally, install `@angular-devkit/schematics-cli` globally and use the `schematics` command line tool. That tool acts the same as the `generate` command of the Angular CLI, but also has a debug mode.
-
-Check the documentation with
-```bash
-schematics --help
-```
-
 ## Help
 
 Please post any questions as comments on this repo's [blog post](https://developer.okta.com/blog/2019/03/05/react-schematics), or visit our [Okta Developer Forums](https://devforum.okta.com/). 
