@@ -11,7 +11,7 @@ Please read [Use Schematics with React and Add OpenID Connect Authentication in 
 To install this example, run the following commands:
 
 ```sh
-git clone git@github.com:oktadeveloper/react-schematics-example.git rsi
+git clone https://github.com/oktadeveloper/react-schematics-example.git rsi
 cd rsi
 ```
 
